@@ -19,7 +19,7 @@ class App extends Component {
             />
             <h1 className="App-title">Fib Calculator version 3</h1>
             <Link to="/">Home</Link>
-            <Link to="/otherpage">Other Page</Link>
+            <Link to="/otherpage">Second Page Page</Link>
           </header>
           <div>
             <Route exact path="/" component={Fib} />
